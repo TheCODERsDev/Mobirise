@@ -1,0 +1,19 @@
+{
+  "name": "mobirise",
+  "version": "1.0.0",
+  "description": "### Mobirise v3.12 * Users with paid extensions can install versions of extensions they have after the end of the free update period * Site image library improvement - overall speed increased, you don't have to wait images loading * Mobirise 3: RTL (you can enable this feature in Style Changer), minor fixes * WowSlider: wrong image size issue fixed",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheCODERsDev/Mobirise.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheCODERsDev/Mobirise/issues"
+  },
+  "homepage": "https://github.com/TheCODERsDev/Mobirise#readme"
+}
